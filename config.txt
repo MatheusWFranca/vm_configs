@@ -1,0 +1,3 @@
+Action: Start a program
+Program/Script: powershell.exe
+Arguments: -ExecutionPolicy Bypass -File "C:\vm\DisableFiles.ps1"
